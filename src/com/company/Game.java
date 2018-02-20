@@ -33,9 +33,6 @@ public class Game {
         this.dueDate = dueDate;
     }
 
-
-    public void addGame() {
-    }
 }
 
 

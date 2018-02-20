@@ -24,7 +24,7 @@ public class Menu {
             switch (input.nextInt()) {
                 case 1:
                     Game game = new Game();
-                    game.addGame();
+                //    game.addGame();
                     //add game
                     break;
                 case 2:
